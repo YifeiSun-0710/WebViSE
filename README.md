@@ -126,5 +126,5 @@ The **released DAG snapshot** contains **163 nodes and 858 active Skills** after
 
 ## Contact
 
-For questions about the release, open an issue or contact [guangnianyuji](https://github.com/guangnianyuji) at [2509090807@qq.com](mailto:2509090807@qq.com).
+For questions about the release, open an issue or contact [YifeiSun-0710](https://github.com/YifeiSun-0710) at [yifeisun0710@gmail.com](mailto:yifeisun0710@gmail.com).
 
